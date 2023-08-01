@@ -1,0 +1,76 @@
+using System.ComponentModel.DataAnnotations;
+using System.Linq.Expressions;
+using System.Net.Security;
+using System.Security.Cryptography;
+using System.Security.Cryptography.X509Certificates;
+using System.Text.RegularExpressions;
+
+namespace Task3
+{
+    public class Palindrome 
+    {
+        public static void Main()
+        {
+
+            string input = "racecar";
+            input = Regex.Replace(input, @"[^\w\s]", "");
+
+            if (checkPalindrome(input))
+            {
+                Console.WriteLine("the input stirng is Plindrome");
+            }
+            else{
+                Console.WriteLine("the input stirng is not plindrome");
+
+            }
+
+            if (testPali(input))
+            {
+                Console.WriteLine("the code has passed! the given testcases");
+            }
+            else
+            {
+                Console.WriteLine("the code has not passed the given testcases ");
+            }
+           
+        }
+
+        public static bool checkPalindrome (string input)
+        {
+
+            
+
+            int i = 0;
+            int j = input.Length - 1;
+            while (i < j)
+            {
+                if (input[i] != input[j])
+                {
+                    return false;
+                }
+                i++;
+                j--;
+            }
+
+            return true;
+
+        }
+
+        public static bool testPali(string input)
+        {
+            bool expected = true;
+
+            if (expected == checkPalindrome(input)){
+                return true;
+            }
+            else
+            {
+                return false;
+
+            }
+    
+        }
+
+    }
+}
+
