@@ -13,7 +13,7 @@ namespace Task1
         public static void Main()
         {
 
-            Console.WriteLine("Enter your Name :");
+            Console.WriteLine("Enter your Name : ");
             string name = Console.ReadLine();
 
             int numberOfCourses = 0;
@@ -25,8 +25,6 @@ namespace Task1
                 numberOfCourses = Convert.ToInt32(Console.ReadLine());
             }
 
-
-
             Dictionary<string, int>  subject= new Dictionary<string, int>();
 
             Console.WriteLine("Enter the courses and you grades :");
@@ -35,8 +33,15 @@ namespace Task1
             while (i< numberOfCourses)
             {
                 string key = Console.ReadLine();
-                subject[key] = Convert.ToInt32(Console.ReadLine());
+                int value = Convert.ToInt32(Console.ReadLine());
 
+                while (value < 0 || value > 100)
+                {
+                    Console.WriteLine("Input correct grade again :");
+
+                    value = Convert.ToInt32(Console.ReadLine());
+                }
+                subject[key] = value;
 
                 i++;
             }
@@ -55,6 +60,7 @@ namespace Task1
             Console.WriteLine($"your Average Score is :  {ave} ");
 
             Console.ReadLine();
+
         }
 
         public static double average(Dictionary<string,int> subject , int n)
