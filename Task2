@@ -1,0 +1,102 @@
+using System.ComponentModel.DataAnnotations;
+using System.Linq.Expressions;
+using System.Net.Security;
+using System.Security.Cryptography.X509Certificates;
+using System.Text.RegularExpressions;
+
+namespace Task2
+{
+    public class CountFrequency
+    {
+        public static void Main()
+        {
+            string testcase = "orange mango banana apple orange papaya banana apple";
+
+            Dictionary<string, int> newdic = frequency(testcase);
+
+            if (testFrequency(testcase))
+            {
+                Console.WriteLine("the code has passed");
+            }
+
+            else
+            {
+                Console.WriteLine("the code has an error");
+            }
+
+            foreach (var item in newdic)
+            {
+                Console.WriteLine(item.Key + "  " + item.Value);
+            }
+
+            Console.WriteLine();
+
+        }
+
+        public static Dictionary<string, int> frequency(String input)
+        {
+
+            Dictionary<string, int> freq = new Dictionary<string, int>();
+
+            String[] words = input.Split(' ');
+
+            foreach (string word in words)
+            {
+                if (freq.ContainsKey(word))
+                {
+                    freq[word] += 1;
+                }
+                else
+                {
+                    freq[word] = 1;
+                }
+            }
+
+            return freq;
+
+        }
+
+
+        public static bool testFrequency(string input)
+        {
+
+            input = Regex.Replace(input, @"[^\w\s]", "");
+            input = input.ToLower();
+            Dictionary<string, int> actual = frequency(input);
+
+            Dictionary<string, int> testFreq = new Dictionary<string, int>()
+            {
+                { "orange" , 2},
+                {"mango" , 1  },
+                {"banana", 2 },
+                {"apple",2 },
+                {"papaya",1 }
+                
+
+            };
+
+            if (areEqual(actual, testFreq))
+            {
+                return true;
+            }
+        return false;
+ }
+
+        public static bool areEqual(Dictionary<string,int>  test, Dictionary<string,int> actual)
+        {
+
+            foreach (var item in test)
+            {
+                if (!actual.TryGetValue(item.Key, out int value) || !value.Equals(item.Value))
+                {
+                    return false;
+
+                }   
+            }
+
+            return true;
+        }
+    }
+}
+
+
