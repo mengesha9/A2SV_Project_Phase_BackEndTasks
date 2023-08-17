@@ -9,9 +9,6 @@ class Program
 
         Taskmanager taskManager = new Taskmanager();
 
-        // Adding a task using object initializer
-        //await taskManager.AddTaskAsync("Task 1", "This is the first task", TaskCategory.Personal);
-        //await taskManager.AddTaskAsync("Task 2", "This is the second task", TaskCategory.Work);
 
         while (true)
         {
@@ -23,18 +20,16 @@ class Program
 
             string input = Console.ReadLine();
 
-            // get all tasks
             if (input == "1")
             {
                 taskManager.ViewAllTasks();
             }
 
-            // filter by catrgory
             else if (input == "2")
             {
                 Console.WriteLine("Enter category (Personal, Work, Errands, etc.):");
                 string categoryInput = Console.ReadLine();
-                //check if the category input is in the enum
+
                 if (Enum.TryParse<TaskCategory>(categoryInput, out TaskCategory category))
                 {
                     var tasksByCategory = taskManager.GetTasksByCategory(category);
@@ -57,7 +52,6 @@ class Program
                 }
             }
 
-            // add task
             else if (input == "3")
             {
                 Console.WriteLine("Enter task name:");
@@ -78,7 +72,7 @@ class Program
             }
             else if (input == "4")
             {
-                break; // Exit the loop and end the program
+                break; 
             }
             else
             {
