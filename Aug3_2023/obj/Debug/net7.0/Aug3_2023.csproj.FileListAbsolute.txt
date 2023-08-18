@@ -1,0 +1,15 @@
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug3_2023\bin\Debug\net7.0\Aug3_2023.exe
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug3_2023\bin\Debug\net7.0\Aug3_2023.deps.json
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug3_2023\bin\Debug\net7.0\Aug3_2023.runtimeconfig.json
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug3_2023\bin\Debug\net7.0\Aug3_2023.dll
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug3_2023\bin\Debug\net7.0\Aug3_2023.pdb
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug3_2023\obj\Debug\net7.0\Aug3_2023.csproj.AssemblyReference.cache
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug3_2023\obj\Debug\net7.0\Aug3_2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug3_2023\obj\Debug\net7.0\Aug3_2023.AssemblyInfoInputs.cache
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug3_2023\obj\Debug\net7.0\Aug3_2023.AssemblyInfo.cs
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug3_2023\obj\Debug\net7.0\Aug3_2023.csproj.CoreCompileInputs.cache
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug3_2023\obj\Debug\net7.0\Aug3_2023.dll
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug3_2023\obj\Debug\net7.0\refint\Aug3_2023.dll
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug3_2023\obj\Debug\net7.0\Aug3_2023.pdb
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug3_2023\obj\Debug\net7.0\Aug3_2023.genruntimeconfig.cache
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug3_2023\obj\Debug\net7.0\ref\Aug3_2023.dll

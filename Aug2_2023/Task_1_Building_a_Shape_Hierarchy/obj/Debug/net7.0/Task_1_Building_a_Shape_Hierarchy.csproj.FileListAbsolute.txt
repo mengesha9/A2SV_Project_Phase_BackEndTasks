@@ -1,0 +1,15 @@
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug2_2023\Task_1_Building_a_Shape_Hierarchy\bin\Debug\net7.0\Task_1_Building_a_Shape_Hierarchy.exe
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug2_2023\Task_1_Building_a_Shape_Hierarchy\bin\Debug\net7.0\Task_1_Building_a_Shape_Hierarchy.deps.json
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug2_2023\Task_1_Building_a_Shape_Hierarchy\bin\Debug\net7.0\Task_1_Building_a_Shape_Hierarchy.runtimeconfig.json
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug2_2023\Task_1_Building_a_Shape_Hierarchy\bin\Debug\net7.0\Task_1_Building_a_Shape_Hierarchy.dll
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug2_2023\Task_1_Building_a_Shape_Hierarchy\bin\Debug\net7.0\Task_1_Building_a_Shape_Hierarchy.pdb
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug2_2023\Task_1_Building_a_Shape_Hierarchy\obj\Debug\net7.0\Task_1_Building_a_Shape_Hierarchy.csproj.AssemblyReference.cache
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug2_2023\Task_1_Building_a_Shape_Hierarchy\obj\Debug\net7.0\Task_1_Building_a_Shape_Hierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug2_2023\Task_1_Building_a_Shape_Hierarchy\obj\Debug\net7.0\Task_1_Building_a_Shape_Hierarchy.AssemblyInfoInputs.cache
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug2_2023\Task_1_Building_a_Shape_Hierarchy\obj\Debug\net7.0\Task_1_Building_a_Shape_Hierarchy.AssemblyInfo.cs
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug2_2023\Task_1_Building_a_Shape_Hierarchy\obj\Debug\net7.0\Task_1_Building_a_Shape_Hierarchy.csproj.CoreCompileInputs.cache
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug2_2023\Task_1_Building_a_Shape_Hierarchy\obj\Debug\net7.0\Task_1_Building_a_Shape_Hierarchy.dll
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug2_2023\Task_1_Building_a_Shape_Hierarchy\obj\Debug\net7.0\refint\Task_1_Building_a_Shape_Hierarchy.dll
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug2_2023\Task_1_Building_a_Shape_Hierarchy\obj\Debug\net7.0\Task_1_Building_a_Shape_Hierarchy.pdb
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug2_2023\Task_1_Building_a_Shape_Hierarchy\obj\Debug\net7.0\Task_1_Building_a_Shape_Hierarchy.genruntimeconfig.cache
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug2_2023\Task_1_Building_a_Shape_Hierarchy\obj\Debug\net7.0\ref\Task_1_Building_a_Shape_Hierarchy.dll

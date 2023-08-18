@@ -34,8 +34,8 @@ public class Taskmanager
 
     public Taskmanager()
     {
+        LoadTasksFromFileAsync(dataFilePath).Wait();
 
-     
     }
 
     public async Task AddTaskAsync(string name, string description, TaskCategory category)

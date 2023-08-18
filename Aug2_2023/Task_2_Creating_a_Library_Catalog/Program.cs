@@ -1,8 +1,8 @@
-namespace LibraryCatalog
+﻿namespace LibraryCatalog
 {
     public class Program
     {
-       public static void Main (string [] args)
+        public static void Main(string[] args)
         {
             Library library = new Library("MyLibrary", "123 Main St.");
 
@@ -19,7 +19,7 @@ namespace LibraryCatalog
 
             library.printCatalog();
 
-            Console.WriteLine(library.sereachBook(book2 ));
+            Console.WriteLine(library.sereachBook(book2));
             Console.WriteLine(library.sereachItem(mediaItem3));
 
 

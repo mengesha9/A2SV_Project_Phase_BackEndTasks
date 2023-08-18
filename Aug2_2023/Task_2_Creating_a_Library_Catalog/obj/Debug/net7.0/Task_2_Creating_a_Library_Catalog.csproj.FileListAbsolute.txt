@@ -1,0 +1,15 @@
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug2_2023\Task_2_Creating_a_Library_Catalog\bin\Debug\net7.0\Task_2_Creating_a_Library_Catalog.exe
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug2_2023\Task_2_Creating_a_Library_Catalog\bin\Debug\net7.0\Task_2_Creating_a_Library_Catalog.deps.json
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug2_2023\Task_2_Creating_a_Library_Catalog\bin\Debug\net7.0\Task_2_Creating_a_Library_Catalog.runtimeconfig.json
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug2_2023\Task_2_Creating_a_Library_Catalog\bin\Debug\net7.0\Task_2_Creating_a_Library_Catalog.dll
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug2_2023\Task_2_Creating_a_Library_Catalog\bin\Debug\net7.0\Task_2_Creating_a_Library_Catalog.pdb
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug2_2023\Task_2_Creating_a_Library_Catalog\obj\Debug\net7.0\Task_2_Creating_a_Library_Catalog.csproj.AssemblyReference.cache
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug2_2023\Task_2_Creating_a_Library_Catalog\obj\Debug\net7.0\Task_2_Creating_a_Library_Catalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug2_2023\Task_2_Creating_a_Library_Catalog\obj\Debug\net7.0\Task_2_Creating_a_Library_Catalog.AssemblyInfoInputs.cache
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug2_2023\Task_2_Creating_a_Library_Catalog\obj\Debug\net7.0\Task_2_Creating_a_Library_Catalog.AssemblyInfo.cs
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug2_2023\Task_2_Creating_a_Library_Catalog\obj\Debug\net7.0\Task_2_Creating_a_Library_Catalog.csproj.CoreCompileInputs.cache
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug2_2023\Task_2_Creating_a_Library_Catalog\obj\Debug\net7.0\Task_2_Creating_a_Library_Catalog.dll
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug2_2023\Task_2_Creating_a_Library_Catalog\obj\Debug\net7.0\refint\Task_2_Creating_a_Library_Catalog.dll
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug2_2023\Task_2_Creating_a_Library_Catalog\obj\Debug\net7.0\Task_2_Creating_a_Library_Catalog.pdb
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug2_2023\Task_2_Creating_a_Library_Catalog\obj\Debug\net7.0\Task_2_Creating_a_Library_Catalog.genruntimeconfig.cache
+C:\Users\mengi\AppData\Roaming\SPB_Data\A2SV_Project_Phase_BackEndTasks\Aug2_2023\Task_2_Creating_a_Library_Catalog\obj\Debug\net7.0\ref\Task_2_Creating_a_Library_Catalog.dll
