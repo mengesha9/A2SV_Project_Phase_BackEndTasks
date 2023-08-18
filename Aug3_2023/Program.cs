@@ -72,7 +72,11 @@ class Program
             }
             else if (input == "4")
             {
+<<<<<<< HEAD
                 break;
+=======
+                break; 
+>>>>>>> ed21efba5f38a0968f43ff48a1875d194ba77681
             }
             else
             {
