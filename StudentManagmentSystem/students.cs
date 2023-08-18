@@ -6,9 +6,8 @@ public class Student
     public string? Grade { get; set; }
 
     // Parameterless constructor for deserialization
-
     public Student()
-    {   
+    {
     }
 
     public Student(string name, int age, int rollNumber, string grade)
@@ -18,5 +17,4 @@ public class Student
         RollNumber = rollNumber;
         Grade = grade;
     }
-
 }
